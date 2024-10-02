@@ -1,0 +1,1 @@
+This repository contains my Leetcode problem solutions which is fully of C++ language. The file name consists of the problem number as same as the number in the Leetcode for the ease of searching. Hope this would be useful for beginners. 
